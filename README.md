@@ -50,3 +50,20 @@
 -- theme forest
 -- figma community
 -- color schema
+
+# ToDo:
+
+## Think of building a similar page (not the exact same one) that can be used for a person who is starting a small business on selling “baked goods”.
+
+- Start working towards the goals:
+  -- Split responsibilities and set up meetings beyond the class time
+  -- Prepare a plan to complete the task
+
+### Design the page and deploy [before next Friday]
+
+### Submission:
+
+    - the github link (should have at least 5 commits)
+    - live link (netlify or any other platform)
+
+### Present (2 minute) the work [next class, at the beginning]
