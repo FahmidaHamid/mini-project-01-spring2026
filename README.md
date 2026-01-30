@@ -88,7 +88,7 @@
     - the github link (should have at least 5 commits)
     - live link (netlify or any other platform)
 
-### Present (2 minute) the work [next class, at the beginning]
+### Present (2-minute) the work [next class, at the beginning]
 
 ## Rubric:
 
@@ -97,8 +97,10 @@
 
 - maintain at least 5 good design principles -> [10 points]
 
-- presenatation (you must prepare a speech for 2 minutes, not more) -> [10 points]
+- presenatation (you must prepare a 2 minute speech, not more) -> [5 points]
 
-- GitHub Repository must have at least 5 meaningful commits (each commit should have proper comment)
+- GitHub Repository must have at least 5 meaningful commits (each commit should have proper comment) -> [5 points]
+
+- README: Provide some words about the project and each section of the page -> [10 points]
 
 **You team will get a 0 score if I don't receive the GitHub link and the live link within the deadline.**
