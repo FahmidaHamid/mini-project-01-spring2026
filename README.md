@@ -27,10 +27,10 @@
 ## Sample Resources:
 
 - HTML (skeleton of your page)
-  -- https://www.w3schools.com/html/
+  - https://www.w3schools.com/html/
 
 - CSS (styling your page)
-  -- https://www.w3schools.com/css/default.asp
+  - https://www.w3schools.com/css/default.asp
 
 - GitHub (repository)
   - https://github.com/
@@ -56,15 +56,28 @@
 
 ### Other sources:
 
--- theme forest
--- figma community
--- color schema
+- theme forest
+- figma community
+- color schema
 
 # ToDo:
 
-## Think of building a similar page (not the exact same one) that can be used for a person who is starting a small business on selling “baked goods”.
+## Think of building a similar page (not the exact same one) that can be used for a small/personal business on selling something like baked goods, toys, crafts, etc.
 
-- Start working towards the goals:
+- While designing the page, try to follow some good design principles:
+  - simplicity
+  - consistency
+  - visual hierarchy
+  - typography
+  - responsive design
+  - spacing
+  - alignment and layout structure
+  - color theory
+
+- idea: https://medium.com/@prathikvpai/essential-design-principles-every-frontend-developer-should-know-6a6087c58b9e
+
+* The way forward:
+  - Prepare a draft design, set your ultimate goal, budget time
   - Split responsibilities and set up meetings beyond the class time
   - Prepare a plan to complete the task
 
@@ -76,3 +89,16 @@
     - live link (netlify or any other platform)
 
 ### Present (2 minute) the work [next class, at the beginning]
+
+## Rubric:
+
+- html must have 5 sections (like navbar, banner, footer, product display section, etc.) -> [10 points]
+- css must have some classes, one/two fonts -> [10 points]
+
+- maintain at least 5 good design principles -> [10 points]
+
+- presenatation (you must prepare a speech for 2 minutes, not more) -> [10 points]
+
+- GitHub Repository must have at least 5 meaningful commits (each commit should have proper comment)
+
+**You team will get a 0 score if I don't receive the GitHub link and the live link within the deadline.**
