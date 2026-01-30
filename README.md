@@ -4,7 +4,7 @@
 
 ## Live link:
 
-- https://app.netlify.com/projects/faugei-flowershop-spring2026/overview
+- https://faugei-flowershop-spring2026.netlify.app/
 
 ## A static page built with pure html and CSS
 
