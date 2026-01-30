@@ -2,6 +2,10 @@
 
 # FAUGEI: A Local Flower Shop
 
+## Live link:
+
+- https://app.netlify.com/projects/faugei-flowershop-spring2026/overview
+
 ## A static page built with pure html and CSS
 
 ### Major Sections in the page:
@@ -60,7 +64,7 @@
 - figma community
 - color schema
 
-# ToDo:
+# To-Do:
 
 ## Build a similar page (not the exact same one) that can be used for a small/personal business on selling something like baked goods, toys, crafts, etc.
 
